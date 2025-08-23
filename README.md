@@ -86,5 +86,5 @@ File-Hider-Project/
 
 ## 👨‍💻 Author
 - ** Gagan Piplani **  
-- GitHub: https://github.com/nachiketapiplani71-collab
+- GitHub: https://github.com/GaganPips
 - Email: nachiketapiplani71@gmail.com
